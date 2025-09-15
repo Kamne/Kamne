@@ -2,7 +2,7 @@
 [![Static Badge](https://img.shields.io/badge/Linkedin-3b5998?style=for-the-badge&logo=in&logoColor=white&logoSize=amg)](https://www.linkedin.com/in/cristina-ricciardi/)
 [![Static Badge](https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=white&logoSize=amg)](https://www.youtube.com/channel/UCMddYbwt8dKb-ZKFHfgCOaQ)
 [![Static Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/christine.elleone/)
-[![Static Badge](https://img.shields.io/badge/Instagram-FEDA75%20?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christine_elleone/)
+[![Static Badge](https://img.shields.io/badge/Instagram-brightgreen?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christine_elleone/)
 
 <!--
 **Kamne/Kamne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
